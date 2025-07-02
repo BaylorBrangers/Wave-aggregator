@@ -1,1 +1,4 @@
-
+__pycache__/
+*.pyc
+.env
+book_data.json
